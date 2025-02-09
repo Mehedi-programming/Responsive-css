@@ -847,13 +847,13 @@ ul>li {
 
 .union {
     position: absolute;
-    margin: -32px 150px 0 -50px;
+    margin: -32px 150px 0 -33px;
     z-index: 100;
 }
 
 .union2 {
     position: absolute;
-    margin: 70px 0 0 270px;
+    margin: 70px 0 0 230px;
     z-index: 100;
 }
 
